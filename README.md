@@ -2,7 +2,7 @@
 
 > *Building fast, scalable, and beautifully crafted web experiences.*
 
-  <img src="https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif" width="320" />
+  <img src="https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif" width="350" />
 
 ---
 
