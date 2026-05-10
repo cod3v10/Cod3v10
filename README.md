@@ -2,7 +2,7 @@
 
 > *Building fast, scalable, and beautifully crafted web experiences.*
 
-![Coding Anime](https://media.tenor.com/2roX3uxz_68AAAAC/coding-anime.gif)
+![Coding Anime](https://media.tenor.com/0AVbKGY_MxMAAAAC/coding-anime.gif)
 
 ---
 
