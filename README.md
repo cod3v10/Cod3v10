@@ -2,7 +2,7 @@
 
 `Probably turning coffee into scalable web apps right now.`
 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="340" />
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif](https://tenor.com/3QOE.gif" width="340" />
 
 ---
 
