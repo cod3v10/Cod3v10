@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Codev
 
 > *Building fast, scalable, and beautifully crafted web experiences.*
-
-<img src="https://media.tenor.com/0AVbKGY_MxMAAAAC/coding-anime.gif" width="300" />
+https://tenor.com/view/working-from-home-computer-homework-gif-13271998
+<img src="https://tenor.com/view/working-from-home-computer-homework-gif-13271998" width="300" />
 
 ---
 
