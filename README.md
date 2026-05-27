@@ -25,23 +25,9 @@ const engineer = {
   tools:    ["Docker", "Git", "Linux", "Figma"],
 };
 ```
-
 ---
 
-## What I Build
-
-| System | Description |
-|---|---|
-| Enterprise APIs | Secure, scalable, production-ready REST APIs |
-| SaaS Platforms | Multi-tenant applications built to scale |
-| Real-time Systems | WebSockets, event-driven architecture |
-| Management Systems | Church, support & analytics platforms |
-| Dashboards | Insights, metrics & data visualization |
-| Creative Experiences | Motion-rich modern interfaces |
-
----
-
-## `tech stack`
+## `Tech stack`
 
 ### backend
 
