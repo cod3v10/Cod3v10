@@ -2,8 +2,7 @@
 
 # Cod3v
 
-### Backend Engineer & Creative Technologist
-*Arusha, Tanzania*
+### Backend Engineer
 
 ---
 
