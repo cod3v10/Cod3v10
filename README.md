@@ -2,23 +2,26 @@
 
 # Cod3v
 
-### Software Engineer & Creative Technologist
-*Arusha, Tanzania → Shipping globally*
+### Backend Engineer & Creative Technologist
+*Arusha, Tanzania → Building scalable systems for the world*
 
 ---
 
-Building high-performance web applications where clean architecture meets beautiful design. I craft products that are fast, scalable, and engineered to last — from interactive dashboards to full SaaS platforms.
+I engineer robust backend systems where performance, clean architecture, and reliability come first. From enterprise APIs and multi-tenant SaaS platforms to real-time systems and analytics infrastructure — I build applications designed to scale, perform, and evolve under real load.
 
-**Code is not just logic. It's design in motion.**
+Backend is my foundation. But I also ship polished frontends because great software should feel as good as it works. I care about the full product — not just the part I built.
+
+**Code is not just functionality. It's engineered experience.**
 
 ---
 
-## Craft
+## Engineering Stack
 
 ```javascript
-const craft = {
-  frontend:   ["React", "Next.js", "Tailwind CSS", "Framer Motion", "GSAP"],
-  backend:    ["Node.js", "Express", "NestJS", "Firebase", "Supabase"],
-  tools:      ["Docker", "Git", "Linux", "Figma"],
-  philosophy: "Build fast. Refine endlessly."
+const engineer = {
+  backend:  ["PHP", "Laravel", "Java", "Spring Boot"],
+  frontend: ["Next.js", "React", "Tailwind CSS", "Framer Motion"],
+  database: ["MySQL", "PostgreSQL", "Firebase"],
+  tools:    ["Docker", "Git", "Linux", "Figma"],
+  building: ["SaaS Platforms", "Management Systems", "Analytics", "Creative Experiences"],
 };
