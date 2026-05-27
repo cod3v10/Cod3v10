@@ -55,7 +55,7 @@ const engineer = {
 ### Frontend
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React]([https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black](https://camo.githubusercontent.com/5dccb243d816c3988a1429f2c76e29674b0794e6791b80b0e998fe0b14c37003/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3030303f266c6f676f3d7265616374))
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=blue)
 
