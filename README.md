@@ -14,7 +14,7 @@ I build scalable backend systems and polished frontends. Enterprise APIs, SaaS p
 
 ---
 
-## Stack
+## Tech Stack
 
 ```javascript
 const engineer = {
@@ -25,8 +25,6 @@ const engineer = {
 };
 ```
 ---
-
-## `Tech stack`
 
 ### backend
 
